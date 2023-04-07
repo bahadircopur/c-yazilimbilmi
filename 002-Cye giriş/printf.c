@@ -1,0 +1,1 @@
+#include <stdio.h>int main() {   printf("\n\nişğüçö\n");   /*\n alt satıra geçer \t ?*/   printf("bir\tiki\ntilki\n\n\n");// anlamadım   printf("hi\rhell");   return 0;}
